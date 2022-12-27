@@ -1,0 +1,23 @@
+{
+    "token": "",
+    "type": "",
+    "username": "",
+    "email": "",
+    "lang": "",
+    "protocol": "",
+    "frist_login": false,
+    "modules": {
+        "485": [
+            ""
+        ],
+        "can": [
+            ""
+        ],
+        "sif": [
+            ""
+        ],
+        "k-bt": [
+            ""
+        ]
+    }
+}
