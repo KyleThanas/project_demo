@@ -1,0 +1,13 @@
+{
+    "buttons": {
+        "login": "Login"
+    },
+    "bottombar": {
+        "btn1": "诊断",
+        "btn2": "升级",
+        "btn3": "产线",
+        "btn4": "保养",
+        "btn5": "其他",
+        "btn6": "设置"
+    }
+}
